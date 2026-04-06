@@ -21,6 +21,7 @@ The key objectives of this project are to:
 ## 🗂️ Dataset Description
 The dataset contains daily transactional sales records, capturing customer purchases at a granular level.
 Key attributes include:
+
 -Transaction date and time
 - Quantity sold
 - Unit price
